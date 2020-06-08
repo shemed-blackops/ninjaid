@@ -78,7 +78,7 @@ class _NinjaCardState extends State<NinjaCard> {
               height: 10.0,
             ),
             Text(
-              '${ninjaLevel}',
+              '$ninjaLevel',
               style: TextStyle(
                   color: Colors.amberAccent[200],
                   letterSpacing: 2.0,
